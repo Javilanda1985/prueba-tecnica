@@ -1,0 +1,44 @@
+* {
+  font-family: Arial;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+
+thead {
+  background-color: #e0e3ed;
+}
+
+.title {
+  color: #507684;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.invoice-number {
+  color: #819bdd;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-top: 15px;
+}
+
+.owner-div {
+  display: flex;
+}
+
+.description-owner {
+  vertical-align: middle;
+}
+.color-border {
+  border-left-color: #dda760;
+}
